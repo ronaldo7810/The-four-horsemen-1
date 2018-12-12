@@ -1,0 +1,8 @@
+body{ background-color:black;
+color:white;}
+.images{display:flex;
+justify-content:center;
+flex-direction:column;
+margin:200px;
+
+}
